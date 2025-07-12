@@ -42,7 +42,7 @@ Below are example screenshots showing the classification results inside Teachabl
 ![Apple Prediction](https://github.com/JawaherMQ5/Image-model/blob/main/Screenshot%202025-07-12%20134027.png)
 
 ### 🔍 Orange Classification
-![Orange Prediction](IMAGE_URL_2)
+![Orange Prediction](https://github.com/JawaherMQ5/Image-model/blob/main/Screenshot%202025-07-12%20134110.png)
 
 ## ▶️ How to Run
 
