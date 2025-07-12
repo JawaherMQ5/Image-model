@@ -39,7 +39,7 @@ Learn how to:
 Below are example screenshots showing the classification results inside Teachable Machine:
 
 ### 🔍 Apple Classification
-![Apple Prediction](IMAGE_URL_1)
+![Apple Prediction](https://github.com/JawaherMQ5/Image-model/blob/main/Screenshot%202025-07-12%20134027.png)
 
 ### 🔍 Orange Classification
 ![Orange Prediction](IMAGE_URL_2)
